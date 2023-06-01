@@ -1,5 +1,9 @@
 # WarCardGame
 
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-31 at 11 21 15](https://github.com/TheElementOFLif3/WarCardGame/assets/116418444/3499dc79-4e60-4441-9f9b-d91576bc8c22)
+![Simulator Screenshot - iPhone 14 Pro - 2023-05-31 at 11 21 25](https://github.com/TheElementOFLif3/WarCardGame/assets/116418444/a62c2d81-4b5d-412d-a83e-66a1d3b65d3e)
+
+
 The provided code is practice purpose written in Swift and represents the main view of a card game called "War Card game." Let's break down the code:
 
 1. Import Statements:
